@@ -53,3 +53,7 @@ void main()
 
     return 0;
 }
+
+## 3. Результаты работы программы
+
+![result](lab2result.png)
