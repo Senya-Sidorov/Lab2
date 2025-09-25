@@ -34,6 +34,9 @@ https://github.com/Senya-Sidorov/Lab2/blob/main/lab2Bdiagram.png
 
 void main() 
 {
+
+
+
     setlocale(LC_ALL, "RUS");
     printf("Вариант 23\n");
     double V1 = 2.0, t1 = 21.0;   
