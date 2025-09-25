@@ -5,10 +5,10 @@ void main()
 	double L = 213.0, n = 3.0, k = 2 , m = 2;
 
 	setlocale(LC_ALL, "RUS");
-	printf("Дано:\n");
+	printf("Р”Р°РЅРѕ:\n");
 	printf("           %.0f     \n", n);
 	printf("         %.0f       \n", L);
 	printf("        ________  \n");
-	printf("Ответ:\n");
+	printf("РћС‚РІРµС‚:\n");
 	printf("        +0%2.2f", n / L);
 }
