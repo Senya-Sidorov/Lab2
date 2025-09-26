@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab2DZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arsen\\AppData\\Local\\Temp\\0e96ca13-90ba-4ce6-8a8d-6645d285feb0_sidorov-20250925T231223Z-1-001.zip.eb0\\sidorov\\Lab0000\\Lab0000_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8483585C-87F6-4344-A793-BB9310BE658C}|Lab2DZ.vcxproj|C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab2DZ\\Lab2DZ.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8483585C-87F6-4344-A793-BB9310BE658C}|Lab2DZ.vcxproj|solutionrelative:Lab2DZ.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab0000_4.c",
+              "DocumentMoniker": "C:\\Users\\arsen\\AppData\\Local\\Temp\\0e96ca13-90ba-4ce6-8a8d-6645d285feb0_sidorov-20250925T231223Z-1-001.zip.eb0\\sidorov\\Lab0000\\Lab0000_4.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\arsen\\AppData\\Local\\Temp\\0e96ca13-90ba-4ce6-8a8d-6645d285feb0_sidorov-20250925T231223Z-1-001.zip.eb0\\sidorov\\Lab0000\\Lab0000_4.c",
+              "ToolTip": "C:\\Users\\arsen\\AppData\\Local\\Temp\\0e96ca13-90ba-4ce6-8a8d-6645d285feb0_sidorov-20250925T231223Z-1-001.zip.eb0\\sidorov\\Lab0000\\Lab0000_4.c [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\Users\\arsen\\AppData\\Local\\Temp\\0e96ca13-90ba-4ce6-8a8d-6645d285feb0_sidorov-20250925T231223Z-1-001.zip.eb0\\sidorov\\Lab0000\\Lab0000_4.c [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-25T23:14:16.265Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab2DZ.c",
+              "DocumentMoniker": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab2DZ\\Lab2DZ.c",
+              "RelativeDocumentMoniker": "Lab2DZ.c",
+              "ToolTip": "C:\\\u0431\u0418\u041F\u0422-252\\\u0414\u0417\\Lab2DZ\\Lab2DZ.c",
+              "RelativeToolTip": "Lab2DZ.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-25T22:00:22.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
