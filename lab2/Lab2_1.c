@@ -2,7 +2,7 @@
 #include <locale.h>
 void main()
 {
-	setlocale(LC_ALL, "RUS");
+	setlocale(LC_ALL, "ru_RU.UTF-8");
 	printf("123\n"); //подзадание 1
 
 	printf("1\n2\n3\n"); //подзадание 2
