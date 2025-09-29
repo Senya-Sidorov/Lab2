@@ -6,11 +6,11 @@ int main()
 	float result = (float)n / L;
 
 	setlocale(LC_ALL, "ru_RU.UTF-8");
-	printf("Дано:\n");
+	printf("Г„Г Г­Г®:\n");
 	printf("%11.d\n", n);
 	printf("%11.d\n", L);
 	printf("______________\n");
-	printf("Ответ:\n");
+	printf("РћС‚РІРµС‚:\n");
 	printf("%7c %+4.2f\n", ' ', result);
 
 	return 0;	
